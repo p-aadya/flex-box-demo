@@ -1,0 +1,141 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+* {
+    margin: 0px;
+}
+
+.bg-green {
+    background-color: rgb(44, 166, 136);
+}
+
+.text-white {
+    color: white;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-5 {
+    height: 5%;
+}
+
+.h-10 {
+    height: 10%;
+}
+
+.w-fit {
+    width: fit-content;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.mb-10 {
+    margin-top: 10px;
+}
+.pt-10 {
+    padding-top: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 95%;
+}
+
+.container>div {
+    flex-grow: 1;
+    
+}
+.section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container2 {
+    display: flex;
+}
+
+.w-20 {
+    width: 20px;
+}
+
+.w-40 {
+    width: 40px;
+}
+
+.h-20 {
+    height: 20px;
+}
+
+.w-3 {
+    width: 30px;
+}
+
+.w-80 {
+    width: 80px;
+}
+.bg-gray {
+    background-color: rgb(232, 238, 239);
+}
+
+th {
+    text-align: right;
+}
+
+.text-green {
+    color: rgb(44, 166, 136);
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.w-80 {
+    width: 80%;
+}
+.w-30 {
+    width:30%;
+}
+
+.w-100 {
+    width: 100;
+}
+
+.mb-5{
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
+.pa {
+    padding-right: 10px;
+}
